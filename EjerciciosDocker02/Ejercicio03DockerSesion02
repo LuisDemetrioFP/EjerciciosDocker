@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#Averigua cuantas capas tiene la nueva imagen.
+
+
+dive simple-apache
+
+#Tiene 6 capas como podemos observar en la imagen "shot01Ejercicio03DockerSesion02.png"
+
+FROM,set,mkdir,set,COPY & COPY.
+
+
+
+exit
+
+

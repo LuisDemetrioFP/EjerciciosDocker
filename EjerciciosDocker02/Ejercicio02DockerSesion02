@@ -1,0 +1,10 @@
+#!/bin/bash/
+
+# 2. Ejecutar un contenedor con mi nueva imagen. El contenedor debe llamarse my_apache y debo usar el puerto 5050 de mi localhost para poder accerder a el.
+
+
+docker run -d --name myapache -p 5050:80 simple-apache
+
+
+exit
+
